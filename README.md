@@ -65,3 +65,5 @@ The detailed analysis and visualizations helped in identifying potential fraudul
 3. Import data from the CSV files into the database.
 4. Run the SQL queries to generate the required reports.
 5. Use the provided Jupyter notebook to create visualizations and analyze trends.
+
+This project highlights the importance of strong data analytics skills in identifying fraudulent transactions and protecting businesses from fraud.
