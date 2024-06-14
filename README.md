@@ -1,4 +1,4 @@
-# Fraud Detection Project
+# Fraud Detection
 
 In this project, I applied my SQL skills to analyze historical credit card transactions and consumption patterns to identify possible fraudulent transactions.
 
